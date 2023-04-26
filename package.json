@@ -1,0 +1,24 @@
+{
+  "name": "ub-symfony-proxy",
+  "version": "1.0.0",
+  "description": "Local proxy helper",
+  "bin": {
+    "ub-symfony-proxy": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ub-unibe-ch/ub-symfony-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ub-unibe-ch/ub-symfony-proxy/issues"
+  },
+  "homepage": "https://github.com/ub-unibe-ch/ub-symfony-proxy#readme",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
